@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+            android:title="首页"
+            android:id="@+id/firstFragment"
+            android:icon="@drawable/ic_home_shape" />
+    <item
+            android:title="分类"
+            android:id="@+id/secondFragment"
+            android:icon="@drawable/ic_type_shape" />
+    <item
+            android:title="添加"
+            android:id="@+id/threeFragment"
+            android:icon="@drawable/ic_add_shape" />
+
+    <item
+            android:title="收藏"
+            android:id="@+id/fourFragment"
+            android:icon="@drawable/ic_star_shape" />
+
+    <item
+            android:title="我的"
+            android:id="@+id/fiveFragment"
+            android:icon="@drawable/ic_me_shape" />
+</menu>
